@@ -1,0 +1,19 @@
+@import './Commons/baseColor.scss';
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: $font-primary;
+}
+
+a{
+    text-decoration: none;
+    color: $font-primary;
+}
+body{
+    background: $primary-color;
+}
+.container{
+    margin: 0 40px;
+}

@@ -1,0 +1,71 @@
+import defaultImage from '../images/defaultImage.jpeg';
+import SP010286020000 from  '../images/SP010286020000.jpeg';
+import SP012010760000 from '../images/SP012010760000.jpeg';
+import SP012496520000 from '../images/SP012496520000.jpeg';
+import SP012813800000 from '../images/SP012813800000.jpeg';
+import SP013109420000 from '../images/SP013109420000.jpeg';
+import SP013301360000 from '../images/SP013301360000.jpeg';
+import SP013515940000 from '../images/SP013515940000.jpeg';
+import SP013584170000 from '../images/SP013584170000.jpeg';
+import SP013723210000 from '../images/SP013723210000.jpeg';
+import SP013727990000 from '../images/SP013727990000.jpeg';
+import SP013848680000 from '../images/SP013848680000.jpeg';
+import SP013954740000 from '../images/SP013954740000.jpeg';
+import SP014367840000 from '../images/SP014367840000.jpeg';
+import SP014431440000 from '../images/SP014431440000.jpeg';
+import SP014459640000 from '../images/SP014459640000.jpeg';
+import SP015238800000 from '../images/SP015238800000.jpeg';
+import SP015351890000 from '../images/SP015351890000.jpeg';
+import SP015413280000 from '../images/SP015413280000.jpeg';
+import SP015600950000 from '../images/SP015600950000.jpeg';
+import SP015622350000 from '../images/SP015622350000.jpeg';
+import SP015653500000 from '../images/SP015653500000.jpeg';
+import SP015666320000 from '../images/SP015666320000.jpeg';
+import SP015766610000 from '../images/SP015766610000.jpeg';
+import SP015768310000 from '../images/SP015768310000.jpeg';
+import SP015806650000 from '../images/SP015806650000.jpeg';
+import SP015878080000 from '../images/SP015878080000.jpeg';
+import SP015997310000 from '../images/SP015997310000.jpeg';
+import SP015997800000 from '../images/SP015997800000.jpeg';
+import SP016010220000 from '../images/SP016010220000.jpeg';
+import SP016055960000 from '../images/SP016055960000.jpeg';
+import SP016070160000 from '../images/SP016070160000.jpeg';
+import SP016088830000 from '../images/SP016088830000.jpeg';
+import SP016143620000 from '../images/SP016143620000.jpeg';
+
+export const imagesArray = [
+    { img: defaultImage},
+    { img: SP010286020000},
+    { img: SP012010760000},
+    { img: SP012496520000 },
+    { img: SP012813800000 },
+    { img: SP013109420000 },
+    { img: SP013301360000 },
+    { img: SP013515940000 },
+    { img: SP013584170000 },
+    { img: SP013723210000 },
+    { img: SP013727990000 },
+    { img: SP013848680000 },
+    { img: SP013954740000 },
+    { img: SP014367840000 },
+    { img: SP014431440000 },
+    { img: SP014459640000 },
+    { img: SP015238800000 },
+    { img: SP015351890000 },
+    { img: SP015413280000 },
+    { img: SP015600950000 },
+    { img: SP015622350000 },
+    { img: SP015653500000 },
+    { img: SP015666320000 },
+    { img: SP015766610000 },
+    { img: SP015768310000 },
+    { img: SP015806650000 },
+    { img: SP015878080000 },
+    { img: SP015997310000 },
+    { img: SP015997800000 },
+    { img: SP016010220000 },
+    { img: SP016055960000 },
+    { img: SP016070160000 },
+    { img: SP016088830000 },
+    { img: SP016143620000 }
+];

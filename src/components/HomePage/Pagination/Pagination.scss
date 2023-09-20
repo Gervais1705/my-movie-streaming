@@ -1,0 +1,19 @@
+@import '../../../Commons/baseColor.scss';
+.pagination{
+    color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page-item{
+    list-style-type: none;
+    padding: 10px 15px;
+    border: 1px solid black;
+    background-color: $secondary-color;
+}
+.page-item:hover{
+    background-color: black;
+}
+.page-item:active{
+    background-color: red;
+}
